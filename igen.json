@@ -1,5 +1,5 @@
 {
-  "api": "https://nihalgazi-flux-pro-unlimited.hf.space/gradio_api/call/generate_image",
+  "api": "https://image-gens.vercel.app/generate-image",
   "version": "1.0",
   "url": "https://chrunos.com/premium-shortcuts/",
   "event": "https://image-gens.vercel.app/",
