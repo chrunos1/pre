@@ -1,6 +1,7 @@
 {
-  "api": "https://image-gens.vercel.app/generate-image",
+  "api": "https://nihalgazi-flux-pro-unlimited.hf.space/gradio_api/call/generate_image",
   "version": "1.0",
   "url": "https://chrunos.com/premium-shortcuts/",
-  "event": "https://image-gens.vercel.app/"
+  "event": "https://image-gens.vercel.app/",
+  "server": "NSFW-Core: Uncensored Server"
 }
