@@ -1,0 +1,6 @@
+{
+  "api": "https://image-gens.vercel.app/generate_image",
+  "version": "1.0",
+  "url": "https://chrunos.com/premium-shortcuts/",
+  "event": "https://image-gens.vercel.app/"
+}
