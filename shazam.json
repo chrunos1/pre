@@ -1,0 +1,7 @@
+{
+  "version": "1.2",
+  "api": "https://tititi-tan.vercel.app/match",
+  "track": "https://tititi-tan.vercel.app/track",
+  "none": "https://tititi-tan.vercel.app/track_dl",
+  "date": "July, 22 2025"
+}
