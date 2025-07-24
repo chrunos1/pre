@@ -2,9 +2,9 @@
   "version": "1.0",
   "url": "https://chrunos.com/chrunos-downloader/",
   "notes": "Add support for a few more sites",
-  "api": "https://tecuts-news.hf.space/max",
+  "api": "https://tecuts-testing-y.hf.space/max",
   "api2": "https://sasrip.sas41.com/api/DownloadAPI/v1.0/",
-  "high": "https://tecuts-news.hf.space/max",
+  "high": "https://tecuts-testing-y.hf.space/max",
   "ins": "https://chrunos-load.hf.space",
   "face": "https://dwnld.nichind.dev",
   "release": "January 2, 2025"
