@@ -3,6 +3,6 @@
   "url": "https://chrunos.com/download-music-from-tidal/",
   "notes": "beta release",
   "API": "https://tecuts-podal.hf.space/fetch",
-  "hls": "https://dl.chrunos.com/hls-downloader/?url=",
+  "hls": "https://dl.chrunos.com/hls-downloader/?url=https://tecuts-podal.hf.space",
   "release": "Apr 17, 2026"
 }
