@@ -1,9 +1,8 @@
 {
-  "pVersion": "1.0",
+  "pVersion": "0.1",
   "url": "https://chrunos.com/download-music-from-tidal/",
-  "notes": "fix file name.",
-  "API": "https://tidal.401658.xyz/track/?id=",
-  "track": "https://tititi-tan.vercel.app/track",
-  "album": "https://tecuts-doll.hf.space/",
-  "release": "May 17, 2024"
+  "notes": "beta release",
+  "API": "https://tecuts-podal.hf.space/fetch",
+  "hls": "https://dl.chrunos.com/hls-downloader/?url=",
+  "release": "Apr 17, 2026"
 }
