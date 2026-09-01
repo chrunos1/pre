@@ -2,7 +2,7 @@
   "version": "1.1",
   "url": "https://chrunos.com/premium-shortcuts/",
   "notes": "Add support for a few more sites",
-  "api": "https://chrunos.top/convert?url=",
+  "api": "https://tecuts-match.hf.space/convert?url=",
   "api2": "https://sasrip.sas41.com/api/DownloadAPI/v1.0/",
   "audio": "https://tecuts-doll.hf.space/track/",
   "back": "https://chrunos.top/api/qq/download/",
