@@ -5,9 +5,9 @@
   "api": "https://tecuts-testing-y.hf.space/max",
   "api2": "https://sasrip.sas41.com/api/DownloadAPI/v1.0/",
   "high": "https://tecuts-testing-y.hf.space/max",
-  "you": "https://downloader-silk.vercel.app/api/info?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D",
+  "you": "https://velynapi.vercel.app/api/downloader/ytmp4?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D",
   "ins": "https://dwnld.nichind.dev",
   "face": "https://dwnld.nichind.dev",
-  "hls": "https://chrunos-kai.hf.space/hls",
-  "release": "January 2, 2025"
+  "hls": "https://chrunos-back.hf.space/hls",
+  "release": "September 20, 2026"
 }
