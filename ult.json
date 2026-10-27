@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "url": "https://chrunos.com/premium-shortcuts/",
+  "notes": "Add support for a few more sites",
+  "api": "https://chrunos-back.hf.space/maxs",
+  "api2": "https://sasrip.sas41.com/api/DownloadAPI/v1.0/",
+  "high": "https://tecuts-testing-y.hf.space/max",
+  "you": "https://velynapi.vercel.app/api/downloader/ytmp4?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D",
+  "ins": "https://dwnld.nichind.dev",
+  "face": "https://dwnld.nichind.dev",
+  "hls": "https://chrunos-back.hf.space/hls",
+  "release": "September 20, 2026"
+}
