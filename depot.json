@@ -1,9 +1,9 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "url": "https://chrunos.com/chrunos-deezload/",
-  "notes": "Initial Release",
+  "notes": "fix album, playlist download.",
   "api": "https://chrunos-zer.hf.space/download/track",
   "album": "https://chrunos-zer.hf.space/z_album",
   "playlist": "https://chrunos-zer.hf.space/z_playlist",
-  "release": "Oct 8, 2026"
+  "release": "Nov 4, 2026"
 }
